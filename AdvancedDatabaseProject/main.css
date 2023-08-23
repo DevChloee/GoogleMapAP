@@ -1,0 +1,5 @@
+/* Custom CSS styles for the map container */
+.map-container {
+    height: 500px;
+    width: 100%;
+}
